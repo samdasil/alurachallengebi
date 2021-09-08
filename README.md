@@ -1,2 +1,2 @@
 # alurachallengebi
-Semana do Challenger BI - ALura
+Semana do Challenge BI - ALura
